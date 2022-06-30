@@ -1,4 +1,4 @@
-# Pocket-Farm
+# Pocket Farm
 
 <span>
 <img src="Pocket-Farm-screenshot.png" width="33%">
