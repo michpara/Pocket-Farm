@@ -1,0 +1,61 @@
+<svg>
+  <use id="myList" href="#tile-list" class="horizontal-pad" display="none">
+    <var id="separator-height-bottom" value="6" />
+    <use href="#my-header">
+      <set href="#text" attributeName="text-buffer" to="View your plants" />
+    </use>
+    <use id="beet" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Beet" />
+    </use>
+    <use id="cabbage" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Cabbage" />
+    </use>
+    <use id="carrot" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Carrot" />
+    </use>
+    <use id="corn" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Corn" />
+    </use>
+    <use id="cucumber" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Cucumber" />
+    </use>
+    <use id="eggplant" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Eggplant" />
+    </use>
+    <use id="onion" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Onion" />
+    </use>
+    <use id="peas" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Peas" />
+    </use>
+    <use id="pepper" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Pepper" />
+    </use>
+    <use id="potato" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Potato" />
+    </use>
+    <use id="pumpkin" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Pumpkin" />
+    </use>
+    <use id="radish" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Radish" />
+    </use>
+    <use id="salad" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Salad" />
+    </use>
+    <use id="spinach" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Spinach" />
+    </use>
+    <use id="tomat" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Tomato" />
+    </use>
+    <use id="watermelon" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Watermelon" />
+    </use>
+    <use id="wheat" href="#my-item">
+      <set href="#text" attributeName="text-buffer" to="Wheat" />
+    </use>
+  </use>
+  <image id="plant" x="68" y="40" width="200" height="200" href="" display="none" />
+  <use id="goBack" href="#icon-text-button" class="icon-text-button bottom application-fill" />
+</svg>

@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "04c7038a-a1ab-492e-8bf5-0dfe165db4e5",
+    "appType": "app",
+    "appDisplayName": "Pocket Farm",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#4caf50",
+    "requestedPermissions": [
+      "access_activity"
+    ],
+    "buildTargets": [
+      "vulcan",
+      "atlas"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Pocket Farm"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
