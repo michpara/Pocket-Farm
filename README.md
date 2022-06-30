@@ -10,4 +10,6 @@ Take care of your own personal, portable farm on your wrist with Pocket Farm. Ev
 
 Supported Devices: Sense, Versa 3
 
+Built with: Fitbit Studio (SVG, CSS3, JavaScript), Pixilart, Piskel
+
 Fitbit App Gallery download link: https://gallery.fitbit.com/details/04c7038a-a1ab-492e-8bf5-0dfe165db4e5
